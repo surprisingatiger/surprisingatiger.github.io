@@ -67,7 +67,7 @@ address:
   - line: Pittsburgh, PA 15213
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'This site uses the Freelancer them. Find it here: <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
