@@ -2,11 +2,12 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: circus.png
+img: dphi-2.png
 alt: image-alt
-project-date: April 2014
-client: Dummy
-category: Dummy
-description: Dummy Icon from <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. 
+project-date: Sep 2016 - Dec 2016
+client: WPRDC & City of Pittsburgh
+position: Open Data Consultant
+description: We worked with the <a href="http://www.wprdc.org/">Western Pennsylvania Regional Data Center</a>, Carnegie Libraries of Pittsburgh, and with the Garfield Jubilee non-profit to figure out how to engage citizens and small businesses in Pittsburgh with Open Data. 
+  After discussion and work with over 10+ regional and non-profit stakeholders, we zeroed in on designing an actionable toolkit that could be rented from libraries by citizens and businesses alike. This toolkit would guide them on the path towards a better use of data. Our methodology can be found <a href="https://dphi16.wordpress.com/">here</a>. We also suggested startegies that were utilized by the City of Pittsburgh to make progress on the “Open Data” aspect of their <a href="http://pittsburghpa.gov/innovation-performance/innovationroadmap/index.html">Inclusive Innovation Roadmap</a>.
 
 ---

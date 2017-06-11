@@ -2,12 +2,12 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: nlp.jpg
+img: nlp2.jpg
 alt: image-alt
 project-date: Jan 2017 - May 2017
 client: Carnegie Mellon University
 position: Team Member
 description: My team and I used NLP techniques and search engine models to creat a smart AI bot. This bot can be fed multiple files - wiki entries, newspaper articles, school text - and it can generate questions based on the text. It also answers any questions asked to it about the data that has been fed to it.
-  Our bot achieved an accuracy of 80% in answering questions. You can find the code <a href="https://github.com/hexiaoyuhaha/Wiki-Question-Answering-System">here</a> and a short video of our methodology <a href="https://www.youtube.com/watch?v=VWdR6ornHoc">here</a> 
+  Our bot achieved an accuracy of 80% in answering questions. A short video of our methodology can be found <a href="https://www.youtube.com/watch?v=VWdR6ornHoc">here</a> 
   This has applications in education - in the form of automated test generation, customer service - by answering frequently asked questions customers may have, and much more.
 ---

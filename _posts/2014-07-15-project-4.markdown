@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: IBM.jpg
+alt: image-alt
+project-date: May 2016 - Aug 2016
+client: IBM Research
+position: Research Analyst Intern
+description: I worked with Tensorflow and R to predict bushfire occurrence in Australia. I performed data extraction and synthesis on weather and topographical datasets from the states of New South Wales and South Australia, and with data from 3 fires. Using this, I built a supervised Recurrent Neural Network model using LSTM (Long Short-Term Memory cells). This model achieved an accuracy of 85%.
+---
