@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: IBR-11.png
+img: IBR-11.jpg
 alt: image-alt
 project-date: Jan 2017 - May 2017
 client: IBR Ventures - <a href="https://en.wikipedia.org/wiki/Flo_Rida">Flo Rida</a>

@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: dphi-2.png
+img: dphi-2.jpg
 alt: image-alt
 project-date: Sep 2016 - Dec 2016
 client: WPRDC & City of Pittsburgh
